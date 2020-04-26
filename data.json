@@ -2,41 +2,41 @@
     {
         "id": "adsflkj0",
         "title": "telegram",
-        "user": "@Jack",
+        "user": "@Jack"
     },
     {
         "id": "adsflkj1",
         "title": "twitter",
-        "user": "@Jack_D",
+        "user": "@Jack_D"
     },
     {
         "id": "adsflkj2",
         "title": "instagram",
-        "user": "@_Jack_D",
+        "user": "@_Jack_D"
     },
     {
         "id": "adsflkj3",
         "title": "reddit-alien",
-        "user": "@RJack_D",
+        "user": "@RJack_D"
     },
     {
         "id": "adsflkj4",
         "title": "facebook",
-        "user": "@Prog.JackD",
+        "user": "@Prog.JackD"
     },
     {
         "id": "adsflkj5",
         "title": "gitlab",
-        "user": "@CodeJackD",
+        "user": "@CodeJackD"
     },
     {
         "id": "adsflkj6",
         "title": "stack-overflow",
-        "user": "@CodeJackD",
+        "user": "@CodeJackD"
     },
     {
         "id": "adsflkj7",
         "title": "soundcloud",
-        "user": "@Sound__JackD",
-    },
+        "user": "@Sound__JackD"
+    }
 ]
