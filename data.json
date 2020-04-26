@@ -1,41 +1,41 @@
 [
     {
-        "id": "1a",
+        "id": 1,
         "title": "telegram",
         "user": "@Jack",
     },
     {
-        "id": "2a",
+        "id": 2,
         "title": "twitter",
         "user": "@Jack_D",
     },
     {
-        "id": "3a",
+        "id": 3,
         "title": "instagram",
         "user": "@_Jack_D",
     },
     {
-        "id": "4a",
+        "id": 4,
         "title": "reddit-alien",
         "user": "@RJack_D",
     },
     {
-        "id": "5a",
+        "id": 5,
         "title": "facebook",
         "user": "@Prog.JackD",
     },
     {
-        "id": "6a",
+        "id": 6,
         "title": "gitlab",
         "user": "@CodeJackD",
     },
     {
-        "id": "7a",
+        "id": 7,
         "title": "stack-overflow",
         "user": "@CodeJackD",
     },
     {
-        "id": "8a",
+        "id": 8,
         "title": "soundcloud",
         "user": "@Sound__JackD",
     },
